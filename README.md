@@ -93,22 +93,22 @@ __Secondary authors__: Philip White & Jay Golden, School of Sustainability, Ariz
 
 Published: 2008 
 
-No | Nama Materi | Tautan Unduh |
+|No | Nama Materi | Tautan Unduh |
 ---| ----------- | ------------ |
 1 | __Introduction to LCA and its relation with environmental decision support__ | [_Module a – LCA and decision support_](https://docs.google.com/file/d/0B9L3YB0W_5cQaWRkdWQzcUIzVWM/edit?usp=sharing) |
 2 | __Overview of LCA__ | [_Module b – Overview of LCA_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-b-Overview-of-LCA.pdf) |
 3 | __In-depth presentation of the main issues in LCA:__ | [-]() |
- | _3.1 Goal and scope definition_ | [_Module c – Goal and scope definition_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-c-Goal-and-scope-definition.pdf) |
- | _3.2 Inventory analysis_ | [_Module d – Inventory analysis_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-d-Inventory-analysis.pdf) | 
- | _3.3 Impact assessment_ | [_Module e – Impact assessment_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-e-Impact-assessment.pdf) |
- | _3.4 Interpretation_ | [_Module f – Interpretation_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-f-Interpretation.pdf) |
+| . | _3.1 Goal and scope definition_ | [_Module c – Goal and scope definition_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-c-Goal-and-scope-definition.pdf) |
+| . | _3.2 Inventory analysis_ | [_Module d – Inventory analysis_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-d-Inventory-analysis.pdf) | 
+| .| _3.3 Impact assessment_ | [_Module e – Impact assessment_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-e-Impact-assessment.pdf) |
+| . | _3.4 Interpretation_ | [_Module f – Interpretation_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-f-Interpretation.pdf) |
 4 | __Specialization modules for selected topics :__ | [-]() |
- | _4.1 Multifunctionality, allocation & system boundaries_ | [_Module g – Multifunctionality, allocation & system boundaries_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-g-Multifunctionality-allocation-system-boundaries.pdf) |
- | _4.2 The mathematics of LCI_ | [_Module h – The mathematics of LCI_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-h-The-mathematics-of-LCI.pdf) |
- | _4.3 The mathematics of LCIA_ | [_Module i – The mathematics of LCIA_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-i-The-mathematics-of-LCIA.pdf) |
- | _4.4 Life cycle costing & eco-efficiency_ | [_Module j – Life cycle costing & eco-efficiency_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-j-The-Life-Cycle-costing-eco-efficiency.pdf) |
- | _4.5 Uncertainty in LCA_ | [_Module k – Uncertainty in LCA_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-k-Uncertainty-in-LCA.pdf) |
- | _4.6 Carbon Footprint_ | [_Module l – Carbon Footprint_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-l-Carbon-Footprint.pdf) |
+| . | _4.1 Multifunctionality, allocation & system boundaries_ | [_Module g – Multifunctionality, allocation & system boundaries_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-g-Multifunctionality-allocation-system-boundaries.pdf) |
+| . | _4.2 The mathematics of LCI_ | [_Module h – The mathematics of LCI_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-h-The-mathematics-of-LCI.pdf) |
+| . | _4.3 The mathematics of LCIA_ | [_Module i – The mathematics of LCIA_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-i-The-mathematics-of-LCIA.pdf) |
+| . | _4.4 Life cycle costing & eco-efficiency_ | [_Module j – Life cycle costing & eco-efficiency_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-j-The-Life-Cycle-costing-eco-efficiency.pdf) |
+| . | _4.5 Uncertainty in LCA_ | [_Module k – Uncertainty in LCA_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-k-Uncertainty-in-LCA.pdf) |
+| . | _4.6 Carbon Footprint_ | [_Module l – Carbon Footprint_](https://www.lifecycleinitiative.org/wp-content/uploads/2013/06/Module-l-Carbon-Footprint.pdf) |
 
 ------------------------
 ### __7. Theses & Dissertation__
